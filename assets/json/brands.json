@@ -1,0 +1,56 @@
+
+    {
+        "Brands": [
+          {
+            "title": "DeWalt",
+            "description": "15 products available",
+            "image": "assets/images/brands/DeWalt.png"
+          },
+          {
+            "title": "Bosch",
+            "description": "20 products available",
+            "image": "assets/images/brands/bosch.png"
+          },
+          {
+            "title": "Makita",
+            "description": "25 products available",
+            "image": "assets/images/brands/markitanew.png"
+          },
+          {
+            "title": "Stanley",
+            "description": "10 products available",
+            "image": "assets/images/brands/stanleylogo.png"
+          },
+          {
+            "title": "Black+Decker",
+            "description": "12 products available",
+            "image": "assets/images/brands/blackdecor.png"
+          },
+          {
+            "title": "Klein Tools",
+            "description": "8 products available",
+            "image": "assets/images/brands/Klein.png"
+          },
+          {
+            "title": "Milwaukee",
+            "description": "18 products available",
+            "image": "assets/images/brands/Milwaukee.png"
+          },
+          {
+            "title": "Ridgid",
+            "description": "6 products available",
+            "image": "assets/images/brands/rigdig.png"
+          },
+          {
+            "title": "Craftsman",
+            "description": "22 products available",
+            "image": "assets/images/brands/craftman.png"
+          },
+          {
+            "title": "Husky",
+            "description": "14 products available",
+            "image": "assets/images/brands/huskey.png"
+          }
+        ]
+}
+      

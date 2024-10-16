@@ -1,0 +1,47 @@
+
+{
+    "Categories": [
+      {
+        "title": "Hand Tools",
+        "image": "assets/images/categories/handtoolbox.png"
+      },
+      {
+        "title": "Power Tools",
+        "image": "assets/images/categories/powertools.png"
+      },
+      {
+        "title": "Painting Items",
+        "image": "assets/images/categories/paint.png"
+      },
+      {
+        "title": "Plumbing",
+        "image": "assets/images/categories/plumbing.png"
+      },
+      {
+        "title": "Building Items",
+        "image": "assets/images/categories/buildingitem.png"
+      },
+      {
+        "title": "Fastners",
+        "image": "assets/images/categories/fastners.png"
+      },
+      {
+        "title": "Electrical Items",
+        "image": "assets/images/categories/electricalitem.png"
+      },
+      {
+        "title": "Home Improvement",
+        "image": "assets/images/categories/homeimprovement.png"
+      },
+      {
+        "title": "Garage Items",
+        "image": "assets/images/categories/lubricant.png"
+      },
+      {
+        "title": "Cleaning Supplies",
+        "image": "assets/images/categories/cleaning.png"
+      }
+     
+    ]
+}
+  

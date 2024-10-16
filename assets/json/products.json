@@ -1,0 +1,74 @@
+{
+    "Products": [
+        {
+            "brand": "DeWalt",
+            "title": "Hammer",
+            "image": "assets/images/categories/handtools.png",
+            "price": "Rs.2500",
+            "discount": "35%"
+        },
+        {
+            "brand": "Bosch",
+            "title": "Drill",
+            "image": "assets/images/categories/powertools.png",
+            "price": "Rs.12000",
+            "discount": "15%"
+        },
+        {
+            "brand": "Makita",
+            "title": "HandTool Box",
+            "image": "assets/images/categories/handtoolbox.png",
+            "price": "Rs.25000",
+            "discount": "15%"
+        },
+        {
+            "brand": "Stanley",
+            "title": "Shower",
+            "image": "assets/images/categories/plumbing.png",
+            "price": "Rs.2500",
+            "discount": "5%"
+        },
+        {
+            "brand": "Black+Decker",
+            "title": "Cement",
+            "image": "assets/images/categories/buildingitem.png",
+            "price": "Rs.5000",
+            "discount": "12%"
+        },
+        {
+            "brand": "Klein Tools",
+            "title": "Grinder",
+            "image": "assets/images/categories/grinder.png",
+            "price": "Rs.25000",
+            "discount": "35%"
+        },
+        {
+            "brand": "Milwaukee",
+            "title": "ball lock",
+            "image": "assets/images/categories/balllock.png",
+            "price": "Rs.2500",
+            "discount": "5%"
+        },
+        {
+            "brand": "Ridgid",
+            "title": "Cleaning Items",
+            "image": "assets/images/categories/cleaning.png",
+            "price": "Rs.1500",
+            "discount": "5%"
+        },
+        {
+            "brand": "Craftsman",
+            "title": "Lubricant",
+            "image": "assets/images/categories/lubricant.png",
+            "price": "Rs.2500",
+            "discount": "35%"
+        },
+        {
+            "brand": "Husky",
+            "title": "Door Handler",
+            "image": "assets/images/categories/homeimprovement.png",
+            "price": "Rs.1800",
+            "discount": "2%"
+        }
+    ]
+}
